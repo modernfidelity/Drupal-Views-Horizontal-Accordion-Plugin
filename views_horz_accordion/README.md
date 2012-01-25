@@ -1,8 +1,7 @@
-
 Drupal 7 Views Horizontal Accordion Style Plugin
 ================================================
 
-This plugin is based on the works of Manuel Garcia(http://drupal.org/user/213194) who created the original 'Views Accordion', and Nicola Hibbert (http://nicolahibbert.com/) who created the jQuery plugin liteAccordion. 
+This plugin is based on the works of Manuel Garcia(http://drupal.org/user/213194) who created the original 'Views Accordion' drupal module, and Nicola Hibbert (http://nicolahibbert.com/) who created the jQuery plugin liteAccordion. 
 
 Follow on Twitter @modernfidelity & @sonniesedge
 
@@ -33,9 +32,7 @@ This is currently a work in progress, and is a 'dev' release, so please be caref
 
 ### DEVELOPMENT
 
-More development will follow..
-
-More text to follow shortly...
+More to follow shortly...
 
 Twitter @modernfidelity & @sonniesedge
 
