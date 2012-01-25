@@ -1,0 +1,14 @@
+name = Views Horizontal Accordion
+description = Provides an horizontal accordion views display plugin.
+package = Views
+core = 7.x
+dependencies[] = views
+version = "7.x-1.0-dev"
+
+files[] = views_horz_accordion.views.inc
+files[] = views_horz_accordion_style_plugin.inc
+
+files[] = css/litaccordion.css
+
+files[] = js/jquery.easing.1.3.js
+files[] = js/liteaccordion.jquery.js
